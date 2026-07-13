@@ -6,18 +6,12 @@ Final-year Electronics and Communication Engineering student passionate about so
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 🎓 Final Year B.E. Electronics and Communication Engineering student at **SSN College of Engineering**
 
 🚀 Passionate about building intelligent embedded systems that combine hardware and software to solve real-world engineering problems.
 
-🌱 Currently learning
-- Data Structures & Algorithms
-- Java
-- C++
-- FPGA Design
-- Edge AI
 
 ---
 
